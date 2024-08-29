@@ -6,4 +6,7 @@ Create a shortcut and add ```-fileopenlog ```at the end.
 
 example ``` Game\Wuthering Waves.exe" -fileopenlog```
 
-Extract Paks to ```C:\Wuthering Waves\Wuthering Waves Game\Client\Content\Paks```
+Extract the Paks files to ```C:\Wuthering Waves\Wuthering Waves Game\Client\Content\Paks```
+
+
+Extract the shorekeeper files to ```C:\Wuthering Waves(PTR)\Wuthering Waves Game\Client\Binaries\Win64```
