@@ -10,3 +10,6 @@ Extract the Paks files to ```C:\Wuthering Waves\Wuthering Waves Game\Client\Cont
 
 
 Extract the shorekeeper files to ```C:\Wuthering Waves(PTR)\Wuthering Waves Game\Client\Binaries\Win64```
+
+# If anyone can't download the file, put this file in the Launcher folder.
+![image](https://github.com/user-attachments/assets/c152dccb-39bd-4b88-9345-5ab9f74b61e9)
