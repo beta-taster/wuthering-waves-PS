@@ -1,0 +1,39 @@
+{
+    "CdnUrl": [
+        {
+            "url": "http://127.0.0.1:5500/dev/client",
+            "weight": "100"
+        },
+        {
+            "url": "http://127.0.0.1:5500/dev/client",
+            "weight": "100"
+        }
+    ],
+    "SecondaryUrl": [],
+    "SpeedRatio": 0,
+    "PriceRatio": 0,
+    "GmOpen": false,
+    "PayUrl": "http://114.132.150.182:12281/ReceiptNotify/PayNotify",
+    "TDCfg": {
+        "URL": "https://ali-sh-datareceiver.kurogame.xyz",
+        "AppID": "364c899beea94b92b87ae30869b492d6"
+    },
+    "LogReport": {
+        "ak": "",
+        "sk": "",
+        "name": "gatekept-logs",
+        "region": "just-no"
+    },
+    "NoticUrl": "https://prod-alicdn-gmserver-static.kurogame.com",
+    "LoginServers": [
+        {
+            "id": "1074",
+            "name": "鸣潮 PS",
+            "ip": "127.0.0.1"
+        }
+    ],
+    "PrivateServers": {
+        "enable": false,
+        "serverUrl": ""
+    }
+}
